@@ -8,7 +8,7 @@
 
 - 🤝 I’m Research Assistant at Adaptive Network Laboratory [https://adaptivenetworklab.org/](https://adaptivenetworklab.org/)
 
-- 📫 How to reach me **dharmaagung@student.telkomuniversity.ac.id**
+- 📫 How to reach me **echo "ZGhhcm1hc2l0ZXB1MDA3QGdtYWlsLmNvbQo=" | base64 --decode**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
