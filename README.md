@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Dharma</h1>
 <h3 align="center">NFV & Cloud Enthusiast</h3>
+<p> <img src="https://cdndata.telkomuniversity.ac.id/STUDENTSAT/EVID/INDIVIDUAL/1101204207116274719659d656dd53b001097e91f29d6789f1091.png" alt="Dharma"/> </a> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dharmasitepu&label=Profile%20views&color=0e75b6&style=flat" alt="dharmasitepu" /> </p>
 
