@@ -7,7 +7,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dharmasitepu" alt="dharmasitepu" /></a> </p>
 
 
-- 🤝 I’m Research Assistant at Adaptive Network Laboratory [https://adaptivenetworklab.org/](https://adaptivenetworklab.org/)
 
 - 📫 How to reach me ```echo "ZGhhcm1hc2l0ZXB1MDA3QGdtYWlsLmNvbQo=" | base64 --decode```
 
